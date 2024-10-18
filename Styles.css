@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #191970;
+    background-color: #282c34;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -43,7 +43,7 @@ nav ul li a {
 }
 
 #hero {
-    background-color: #eae2b7; /* Dark blue-gray background */
+    background-color: #1e1e2f; /* Dark blue-gray background */
     color: #fff;
     padding: 100px 0;
     text-align: center;
@@ -115,7 +115,7 @@ section h2 {
 }
 
 footer {
-    background-color: #191970;
+    background-color: #282c34;
     color: white;
     padding: 20px 0;
     text-align: center;
